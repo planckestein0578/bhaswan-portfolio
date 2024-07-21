@@ -24,7 +24,7 @@
 - **ESP-32 Based Projects**: Designed and implemented projects using the ESP-32 microcontroller for advanced IoT applications.
 - **Fortran Projects**: Worked on numerous Fortran Projects, also I have replicated some of the complex projects.
 
-- ## Achievements
+## Achievements
 - I have been SCHOOL STUDENT COUNCIL LEADER.
 - I have been SCHOOL HOUSE/CLUB CAPTAIN.
 - 1st Place in Science, General Knowlegde, Social Science Quizes.
