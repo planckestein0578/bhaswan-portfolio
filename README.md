@@ -25,11 +25,11 @@
 - **Fortran Projects**: Worked on numerous Fortran Projects, also I have replicated some of the complex projects.
 
 - ## Achievements
-- **I have been SCHOOL STUDENT COUNCIL LEADER.
-- **I have been SCHOOL HOUSE/CLUB CAPTAIN.
-- **1st Place in Science, General Knowlegde, Social Science Quizes.
-- **1st Place in Math Working Model Making.
-- **1st Place in Chess Tournament.
-- **1st Place in Athletics(Relay).
-- **2nd Place in Soccer.
+- I have been SCHOOL STUDENT COUNCIL LEADER.
+- I have been SCHOOL HOUSE/CLUB CAPTAIN.
+- 1st Place in Science, General Knowlegde, Social Science Quizes.
+- 1st Place in Math Working Model Making.
+- 1st Place in Chess Tournament.
+- 1st Place in Athletics(Relay).
+- 2nd Place in Soccer.
 
