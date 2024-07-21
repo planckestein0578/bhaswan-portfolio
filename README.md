@@ -16,7 +16,7 @@
 - **Team Collaboration**
 - **Critical Thinking**
 - **Science And Mathematics**
-- 
+
 ## Projects
 - **Electromyography Bionic Prosthetic**: Developed a bionic prosthetic controlled by electromyography signals.
 - **Animal Repulsion Sound Device**: Created a device using sound frequencies to humanely repel animals.
@@ -32,5 +32,4 @@
 - **1st Place in Chess Tournament.
 - **1st Place in Athletics(Relay).
 - **2nd Place in Soccer.
-- 
 
