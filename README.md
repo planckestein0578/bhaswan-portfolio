@@ -30,6 +30,6 @@
 - 1st Place in Science, General Knowlegde, Social Science Quizes.
 - 1st Place in Math Working Model Making.
 - 1st Place in Chess Tournament.
-- 1st Place in Athletics(Relay).
+- 1st Place in Athletics (Relay).
 - 2nd Place in Soccer.
 
