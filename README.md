@@ -1,4 +1,4 @@
-# *Bhaswan - Portfolio*
+# *Bhaswan G - Portfolio*
 # Science and Computer Science Enthusiast
 
 ## Education (Ongoing)
