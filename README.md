@@ -13,7 +13,7 @@
 - **Internet of Things (IoT)**
 - **Arduino**
 - **ESP-32**
-- **Sports**: Chess & E-sports
+- **Sports**: Chess
 - **Music**: Flute & Beatboxing
 - **Graphic Designing**
 - **Problem-Solving**
