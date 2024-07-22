@@ -25,7 +25,7 @@
 - **Fortran Projects**: Worked on numerous Fortran Projects, also I have replicated some of the complex projects.
 
 ## Achievements
- # Sophomore year
+ ## Sophomore year
 - I have been SCHOOL STUDENT COUNCIL LEADER.
 - I have been SCHOOL HOUSE/CLUB CAPTAIN.
 - 1st Place in Science, General Knowlegde, Social Science Quizes.
