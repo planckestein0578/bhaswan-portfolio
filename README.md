@@ -30,6 +30,7 @@
 
 ## Achievements
 ## Sophomore year
+- Best outgoing student award
 - I have been SCHOOL STUDENT COUNCIL LEADER.
 - I have been SCHOOL HOUSE/CLUB CAPTAIN.
 - 1st Place in Science, General Knowlegde, Social Science Quizes.
