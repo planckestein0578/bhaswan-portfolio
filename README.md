@@ -38,4 +38,6 @@
 - 1st Place in Chess Tournament.
 - 1st Place in Athletics (Relay).
 - 2nd Place in Soccer.
+## Junior Year
+- AISSE Topper Merit Award
 
